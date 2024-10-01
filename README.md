@@ -87,17 +87,6 @@ Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en 
     </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsebxc&show_icons=true&locale=es&layout=compact" alt="rsebxc" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsebxc&show_icons=true&locale=es" alt="rsebxc" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsebxc&" alt="rsebxc" />
-</p>
 
 
 ### 🚀 Proyectos Destacados
@@ -143,5 +132,5 @@ Siempre estoy abierto a colaborar en proyectos de código abierto o a trabajar e
 
 <!-- Imagen de pie de página -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581092335187-2f2417f9d025" alt="footer-image" style="width:100%; height:150px; object-fit:cover;">
+  <img src="https://neoattack.com/wp-content/uploads/2021/05/lenguajes-programacion-1024x576.jpg.webp" alt="footer-image" style="width:100%; height:150px; object-fit:cover;">
 </p>
