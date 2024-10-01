@@ -3,7 +3,16 @@
 
 
 <h1 align="center">Hola 👋, soy Rodrigo Castro</h1>
-<h3 align="center">Un apasionado desarrollador full-stack de México</h3>
+---
+
+### 💬 Acerca de mí
+
+Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en la creación de aplicaciones web dinámicas y funcionales. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades de programación.
+
+- 🌱 Actualmente, estoy aprendiendo **TypeScript**, **GraphQL**, y **Docker**.
+- 💬 Pregúntame sobre **JavaScript, React, Fortran, Python, C++**.
+- 👯 Estoy buscando colaborar en proyectos de código abierto y en trabajos freelance.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rsebxc&label=Profile%20views&color=0e75b6&style=flat" alt="rsebxc" />
