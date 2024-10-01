@@ -98,3 +98,50 @@ Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsebxc&" alt="rsebxc" />
 </p>
+
+
+### 🚀 Proyectos Destacados
+
+- **[Proyecto 1](#)**: Breve descripción de lo que hace este proyecto y cómo lo desarrollaste.
+- **[Proyecto 2](#)**: Explica el uso de tecnologías y lo que aprendiste desarrollándolo.
+- **[Proyecto 3](#)**: Enlace al repositorio y detalla qué problemas resolviste con este proyecto.
+
+<!-- Aquí podrías agregar enlaces a demos o capturas de pantalla -->
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsebxc&show_icons=true&locale=es&theme=radical" alt="rsebxc" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsebxc&theme=radical" alt="rsebxc" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsebxc&show_icons=true&locale=es&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 🎮 Intereses Personales
+
+- Me gusta jugar videojuegos de terror multijugador como **Phasmophobia** y **Dead by Daylight**.
+- Me apasiona resolver problemas de optimización en **Fortran** y hacer simulaciones científicas.
+
+<!-- Puedes incluir otros hobbies o intereses personales que te hagan más accesible o interesante para la comunidad -->
+
+---
+
+### ✨ Contribuciones y Colaboraciones
+
+Siempre estoy abierto a colaborar en proyectos de código abierto o a trabajar en nuevas ideas. Si tienes alguna propuesta o buscas un compañero de equipo, ¡no dudes en contactarme!
+
+---
+
+<!-- Imagen de pie de página -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581092335187-2f2417f9d025" alt="footer-image" style="width:100%; height:150px; object-fit:cover;">
+</p>
