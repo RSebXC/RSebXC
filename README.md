@@ -1,3 +1,7 @@
+<!-- Imagen de fondo para el título -->
+<img src="https://images.unsplash.com/photo-1530639830171-fdba7c9af702" alt="background" style="width:100%; height:200px; object-fit:cover;">
+
+
 <h1 align="center">Hola 👋, soy Rodrigo Castro</h1>
 <h3 align="center">Un apasionado desarrollador full-stack de México</h3>
 
