@@ -22,7 +22,7 @@ Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsebxc&theme=darkhub" alt="rsebxc" /></a>
 </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sebastian castro" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian castro" height="30" width="40" />
@@ -41,7 +41,7 @@ Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en 
   </a>
 </p>
 
-<h3 align="left">🚀 Habilidades Técnicas</h3>
+<h3 align="center">🚀 Habilidades Técnicas</h3>
 
 - **Lenguajes**: JavaScript, HTML, CSS, Fortran, Python, C++, TypeScript
 - **Frameworks**: React, Vue.js, Django
@@ -50,8 +50,8 @@ Soy un desarrollador con experiencia en **frontend** y **backend**, enfocado en 
 - **Backend**: Node.js, Express
 - **DevOps**: Kubernetes, AWS
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
+<h3 align="center">Idiomas y herramientas:</h3>
+<p align="center">
     <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a>
