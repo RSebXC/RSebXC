@@ -1,5 +1,5 @@
 <!-- Imagen de fondo para el título -->
-<img src="https://images.unsplash.com/photo-1530639830171-fdba7c9af702" alt="background" style="width:100%; height:200px; object-fit:cover;">
+<img src="[https://images.unsplash.com/photo-1530639830171-fdba7c9af702](https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg)" alt="background" style="width:100%; height:200px; object-fit:cover;">
 
 
 <h1 align="center">Hola 👋, soy Rodrigo Castro</h1>
