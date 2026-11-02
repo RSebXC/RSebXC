@@ -1,75 +1,57 @@
-<!-- Fondo cyber/IA moderno -->
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070" alt="Cyber & AI Background" style="width:100%; height:220px; object-fit:cover; border-radius:10px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
+  <img src="assets/profile-banner-light.svg" alt="Backend, datos y sistemas. Código con propósito, desde Guatemala." width="1280" height="300">
+</picture>
 
-<h1 align="center">¡Hola! 👋 Soy Rodrigo Castro</h1>
+# Hola, soy Rodrigo Sebastián Castro Aguilar
 
-<h3 align="center">Estudiante Último Año | Ingeniería en Ciencias y Sistemas - USAC | Guatemala</h3>
+**Desarrollador backend y soporte de bases de datos · Guatemala**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME_AQUI&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Me gusta entender cómo funciona un sistema, encontrar la causa de un problema y convertir ese diagnóstico en una solución. Trabajo con aplicaciones Java, bases de datos Oracle y servicios backend; en mis proyectos también exploro cloud, ingeniería de datos y sistemas en Go.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME_AQUI&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b) · [Correo](mailto:RS.CASTRO0417@gmail.com) · [Repositorios](https://github.com/RSebXC?tab=repositories)
 
-### 💬 Sobre mí
-Estudiante de noveno semestre (último año) en Ingeniería en Ciencias y Sistemas - USAC. Apasionado por **ciberseguridad**, **inteligencia artificial**, **desarrollo full-stack** y proyectos TI.
+## Experiencia y enfoque
 
-- 🔒 Enfoque en Ethical Hacking, Seguridad de APIs y Ciberseguridad en sistemas/telecom.
-- 🧠 Certificado Samsung Innovation Campus (SIC) en Python e IA.
-- 🌱 Explorando TypeScript, Docker, Kubernetes y cloud security.
-- 💻 Experiencia en canales digitales (Almacenes Siman) y proyectos uni.
-- 👯 Abierto a colaboraciones open-source, pasantías en IT/Seguridad o contribuciones IA/fullstack.
+- **SAT · Servicios técnicos:** desarrollo y mantenimiento de aplicaciones Java, resolución de incidencias en sistemas institucionales y scripts SQL/PLSQL para correcciones, actualizaciones y migraciones de datos en Oracle.
+- **Prácticas en la USAC · Telemedicina:** backend e infraestructura con NestJS, PostgreSQL y Docker; integración de frontend en Angular y trabajo con pipelines de entrega continua.
+- **Trabajo en equipo:** he coordinado un proyecto de microservicios, participado en el planteamiento de sus servicios y desarrollado tanto frontend como backend.
 
-Pregúntame sobre Python, IA, JS/Node, SQL, Git, ciberseguridad o proyectos!
+## Proyectos destacados
 
-### 🌐 Conéctate
-<p align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-castro-95233632b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/r_castro.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+Una selección de proyectos individuales y grupales. En cada uno indico mi contribución.
 
-### 🚀 Habilidades Técnicas
-**Lenguajes**  
-Python (IA/ML) · JavaScript/TypeScript · C++ · Node.js · HTML/CSS · PHP
+| Proyecto | Tecnologías y enfoque | Mi aporte |
+| --- | --- | --- |
+| [Plataforma de microservicios](https://github.com/RSebXC/Proyecto-SA-B-3) | NestJS, TypeScript, NATS, Docker y CI/CD. Servicios para producción, calidad, inventario y comercio electrónico. | Coordinación del grupo, planteamiento de cada servicio, mayor parte del frontend y desarrollo de varios servicios backend. |
+| [SG-Food · Pipeline de datos](https://github.com/RSebXC/SS22S2026_G26/tree/main/Proyecto1) | Python, Apache Airflow, dbt y PostgreSQL. Flujo ELT, modelo dimensional y validación de datos. | Responsable principal del trabajo de Big Data e ingeniería de datos dentro del equipo. |
+| [Administrador de discos virtuales](https://github.com/RSebXC/MIA_2S_P1_202204496) | Go y React. Intérprete de comandos, particiones MBR/EBR, estructuras EXT2 y reportes. | Desarrollo completo del proyecto. |
+| [Monitoreo de contenedores](https://github.com/RSebXC/202204496_LAB_SO1_2S2025/tree/main/Proyecto2) | C, Go, Linux, Docker, SQLite y Grafana. Métricas desde el kernel hasta el dashboard. | Desarrollo completo de los módulos de kernel, daemon, almacenamiento y visualización. |
+| [CloudCinema · Infraestructura AWS](https://github.com/RSebXC/SEMINARIO1_A_1S2026_G5/tree/main/Practica_1) | React, EC2, S3, RDS e IAM. Aplicación de tres capas con APIs en FastAPI y Express. | Infraestructura cloud e integración de la arquitectura. Las dos APIs fueron desarrolladas por mi equipo. |
+| [OakLand-js · Compiladores 2](https://github.com/RSebXC/OLC2_Proyecto1_202204496) | JavaScript, PEG.js, AST, patrón Visitor y RISC-V. Intérprete y compilador con editor web. | Desarrollo completo: gramática, análisis, intérprete, compilador, generación de código e interfaz. |
 
-**Full-Stack & Frameworks**  
-React · Node.js/Express · MongoDB/SQL
+## Stack técnico
 
-**DevOps/Cloud**  
-Git · Docker · AWS · Kubernetes (básico)
+Tecnologías de mi experiencia profesional, proyectos y formación:
 
-**Ciberseguridad & IA**  
-Ethical Hacking (en formación) · Python IA · MQTT/IoT · Cisco Packet Tracer
+| Área | Herramientas |
+| --- | --- |
+| Lenguajes | Java · Python · TypeScript · JavaScript · Go · SQL · PL/SQL · C/C++ |
+| Backend | Spring Boot · NestJS · FastAPI · Node.js/Express · APIs REST · Microservicios |
+| Bases de datos | Oracle · PostgreSQL · MySQL · MongoDB · Neo4j · SQLite |
+| Cloud y entrega | AWS: EC2, S3, RDS, IAM · Google Cloud/BigQuery · Docker · Kubernetes · CI/CD |
+| Datos y observabilidad | Apache Airflow · dbt · BigQuery ML · Grafana · Power BI |
+| Integración y herramientas | Angular · React · PrimeFaces · Oracle Forms · Git · GitHub · GitLab |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,node,express,mongodb,mysql,git,docker,aws,kubernetes,html,css" alt="Skills" />
-</p>
+## Formación
 
-### 🏆 Certificados
-- Python e Inteligencia Artificial – Samsung Innovation Campus (SIC)
-- [Agrega Oracle si lo tienes]
+- **Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala.** Pensum cerrado, pendiente de graduación.
+- **Proyecto de Inteligencia Artificial con Python — Samsung Innovation Campus.** 200 horas · 2025.
+- **Idiomas:** español nativo e inglés básico.
 
-### 🔥 Proyectos Destacados
-- Proyecto IA/Python (SIC): Modelos ML para clasificación/predicción.
-- App Full-Stack Uni: React + Node + DB segura.
-- [Agrega tus repos reales aquí con links]
+## Conversemos
 
-### 📊 Estadísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME_AQUI&show_icons=true&locale=es&theme=onedark&hide_border=true" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME_AQUI&theme=onedark&hide_border=true" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME_AQUI&show_icons=true&locale=es&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />
-</p>
+Si tienes una oportunidad de desarrollo backend, bases de datos o soporte de software, o un proyecto en el que podamos colaborar, puedes escribirme a **[RS.CASTRO0417@gmail.com](mailto:RS.CASTRO0417@gmail.com)** o contactarme por **[LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b)**.
 
-### 🎯 Intereses
-Ciberseguridad aplicada, IA en telecom, videojuegos terror (Phasmophobia), optimización código.
-
-¡Contáctame para colaboraciones o pasantías!
-
-<img src="https://images.unsplash.com/photo-1555949963-aa79d0ebc8fb?auto=format&fit=crop&q=80&w=2070" alt="Footer Code" style="width:100%; height:150px; object-fit:cover; border-radius:10px; margin-top:20px;">
+<!-- Al publicar el portafolio personal, agregar aquí su URL definitiva. -->
