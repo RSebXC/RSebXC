@@ -1,57 +1,96 @@
+<a href="https://rsebxc.github.io/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
-  <img src="assets/profile-banner-light.svg" alt="Backend, datos y sistemas. Código con propósito, desde Guatemala." width="1280" height="300">
+  <img src="assets/profile-banner-light.svg" alt="Rodrigo Castro. Ver mi portafolio: rsebxc.github.io. Backend, datos y sistemas." width="1280" height="330">
 </picture>
+</a>
 
-# Hola, soy Rodrigo Sebastián Castro Aguilar
+# Rodrigo Sebastián Castro Aguilar
 
 **Desarrollador backend y soporte de bases de datos · Guatemala**
 
-Me gusta entender cómo funciona un sistema, encontrar la causa de un problema y convertir ese diagnóstico en una solución. Trabajo con aplicaciones Java, bases de datos Oracle y servicios backend; en mis proyectos también exploro cloud, ingeniería de datos y sistemas en Go.
+## [Mira mi portafolio → rsebxc.github.io](https://rsebxc.github.io/)
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b) · [Correo](mailto:RS.CASTRO0417@gmail.com) · [Repositorios](https://github.com/RSebXC?tab=repositories)
+En mi portafolio encontrarás los proyectos, su estado, las decisiones técnicas y mi contribución en cada uno. También puedes [descargar mi CV](https://rsebxc.github.io/CV_Rodrigo_Castro_Aguilar.pdf).
 
-## Experiencia y enfoque
+[Portafolio](https://rsebxc.github.io/) · [LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b) · [Correo](mailto:RS.CASTRO0417@gmail.com)
 
-- **SAT · Servicios técnicos:** desarrollo y mantenimiento de aplicaciones Java, resolución de incidencias en sistemas institucionales y scripts SQL/PLSQL para correcciones, actualizaciones y migraciones de datos en Oracle.
-- **Prácticas en la USAC · Telemedicina:** backend e infraestructura con NestJS, PostgreSQL y Docker; integración de frontend en Angular y trabajo con pipelines de entrega continua.
-- **Trabajo en equipo:** he coordinado un proyecto de microservicios, participado en el planteamiento de sus servicios y desarrollado tanto frontend como backend.
+Me gusta convertir un problema en un sistema que se pueda explicar, probar y mejorar. Trabajo con aplicaciones Java, servicios backend y bases de datos Oracle; también construyo productos Android, flujos de datos e infraestructura cloud.
 
-## Proyectos destacados
+En mis proyectos propios defino la idea, el contexto, los casos de uso y la arquitectura. Me apoyo en herramientas de IA durante la implementación y mantengo la responsabilidad de las decisiones y la revisión.
 
-Una selección de proyectos individuales y grupales. En cada uno indico mi contribución.
+## Mi trabajo, en cifras
 
-| Proyecto | Tecnologías y enfoque | Mi aporte |
-| --- | --- | --- |
-| [Plataforma de microservicios](https://github.com/RSebXC/Proyecto-SA-B-3) | NestJS, TypeScript, NATS, Docker y CI/CD. Servicios para producción, calidad, inventario y comercio electrónico. | Coordinación del grupo, planteamiento de cada servicio, mayor parte del frontend y desarrollo de varios servicios backend. |
-| [SG-Food · Pipeline de datos](https://github.com/RSebXC/SS22S2026_G26/tree/main/Proyecto1) | Python, Apache Airflow, dbt y PostgreSQL. Flujo ELT, modelo dimensional y validación de datos. | Responsable principal del trabajo de Big Data e ingeniería de datos dentro del equipo. |
-| [Administrador de discos virtuales](https://github.com/RSebXC/MIA_2S_P1_202204496) | Go y React. Intérprete de comandos, particiones MBR/EBR, estructuras EXT2 y reportes. | Desarrollo completo del proyecto. |
-| [Monitoreo de contenedores](https://github.com/RSebXC/202204496_LAB_SO1_2S2025/tree/main/Proyecto2) | C, Go, Linux, Docker, SQLite y Grafana. Métricas desde el kernel hasta el dashboard. | Desarrollo completo de los módulos de kernel, daemon, almacenamiento y visualización. |
-| [CloudCinema · Infraestructura AWS](https://github.com/RSebXC/SEMINARIO1_A_1S2026_G5/tree/main/Practica_1) | React, EC2, S3, RDS e IAM. Aplicación de tres capas con APIs en FastAPI y Express. | Infraestructura cloud e integración de la arquitectura. Las dos APIs fueron desarrolladas por mi equipo. |
-| [OakLand-js · Compiladores 2](https://github.com/RSebXC/OLC2_Proyecto1_202204496) | JavaScript, PEG.js, AST, patrón Visitor y RISC-V. Intérprete y compilador con editor web. | Desarrollo completo: gramática, análisis, intérprete, compilador, generación de código e interfaz. |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+  <img src="assets/metrics-light.svg" alt="34 repositorios públicos y 9 proyectos seleccionados: 6 propios y 3 colaboraciones. Corte: 6 de noviembre de 2026." width="1280" height="186">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/code-overview-dark.svg">
+  <img src="assets/code-overview-light.svg" alt="Repositorios por lenguaje principal: Python 10, Java 8, JavaScript 3, TypeScript 2, Fortran 2, Go 1 y Kotlin 1. Los proyectos seleccionados se distribuyen en 6 propios y 3 colaboraciones." width="1280" height="400">
+</picture>
+
+[Fuente: repositorios públicos de GitHub](https://github.com/RSebXC?tab=repositories), revisados el **6 de noviembre de 2026**. Las gráficas describen código publicado y autoría de esta selección; no son porcentajes de dominio ni métricas de usuarios.
+
+## Proyectos para explorar
+
+Cada tarjeta abre el caso en mi portafolio. El enlace inferior lleva directamente al repositorio.
+
+<table>
+<tr><td width="50%"><a href="https://rsebxc.github.io/#finanzas"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/finanzas-dark.svg">
+  <img src="assets/projects/finanzas-light.svg" alt="Mis Finanzas · Claridad sin conexión: App Android. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/App-ControlFinanzas">Ver código y documentación ↗</a></td><td width="50%"><a href="https://rsebxc.github.io/#gtvs"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/gtvs-dark.svg">
+  <img src="assets/projects/gtvs-light.svg" alt="GTVS · Rutas con contexto: Prototipo V1. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/GTVS-2027">Ver código y documentación ↗</a></td></tr>
+<tr><td width="50%"><a href="https://rsebxc.github.io/#barberia"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/barberia-dark.svg">
+  <img src="assets/projects/barberia-light.svg" alt="Turnos de barbería · Una fila, varios equipos: Análisis y arquitectura. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/Servicio-Barberia">Ver código y documentación ↗</a></td><td width="50%"><a href="https://rsebxc.github.io/#microservicios"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/microservicios-dark.svg">
+  <img src="assets/projects/microservicios-light.svg" alt="Plataforma de microservicios: Implementación. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/Proyecto-SA-B-3">Ver código y documentación ↗</a></td></tr>
+<tr><td width="50%"><a href="https://rsebxc.github.io/#sg-food"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/sg-food-dark.svg">
+  <img src="assets/projects/sg-food-light.svg" alt="SG-Food · Datos listos para analizar: Implementación. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/SS22S2026_G26/tree/main/Proyecto1">Ver código y documentación ↗</a></td><td width="50%"><a href="https://rsebxc.github.io/#monitoreo"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects/monitoreo-dark.svg">
+  <img src="assets/projects/monitoreo-light.svg" alt="Monitor de contenedores · Del kernel a Grafana: Implementación. Abrir el caso de proyecto." width="600" height="300">
+</picture></a><a href="https://github.com/RSebXC/202204496_LAB_SO1_2S2025/tree/main/Proyecto2">Ver código y documentación ↗</a></td></tr>
+</table>
+
+**También he construido:**
+
+- **[Discos virtuales · El almacenamiento por dentro](https://rsebxc.github.io/#discos)** — Diseño e implementación completa. [Repositorio](https://github.com/RSebXC/MIA_2S_P1_202204496).
+- **[CloudCinema · Arquitectura en AWS](https://rsebxc.github.io/#cloudcinema)** — Arquitectura e infraestructura cloud. [Repositorio](https://github.com/RSebXC/SEMINARIO1_A_1S2026_G5/tree/main/Practica_1).
+- **[OakLand-js · Del lenguaje a RISC-V](https://rsebxc.github.io/#compiladores)** — Diseño e implementación completa. [Repositorio](https://github.com/RSebXC/OLC2_Proyecto1_202204496).
+
+Los proyectos se presentan como **propios o colaboraciones**. Mis Finanzas tiene app Android; GTVS es un prototipo con datos sintéticos y no garantiza seguridad de una ruta; Barbería está en análisis y arquitectura, con implementación pendiente. [Explorar los nueve casos →](https://rsebxc.github.io/#proyectos)
 
 ## Stack técnico
 
-Tecnologías de mi experiencia profesional, proyectos y formación:
+<p><img src="assets/tech/java.svg" alt="Java" width="34" height="34"> <img src="assets/tech/python.svg" alt="Python" width="34" height="34"> <img src="assets/tech/typescript.svg" alt="TypeScript" width="34" height="34"> <img src="assets/tech/go.svg" alt="Go" width="34" height="34"> <img src="assets/tech/kotlin.svg" alt="Kotlin" width="34" height="34"> <img src="assets/tech/spring.svg" alt="Spring Boot" width="34" height="34"> <img src="assets/tech/nestjs.svg" alt="NestJS" width="34" height="34"> <img src="assets/tech/postgresql.svg" alt="PostgreSQL" width="34" height="34"> <img src="assets/tech/docker.svg" alt="Docker" width="34" height="34"> <img src="assets/tech/kubernetes.svg" alt="Kubernetes" width="34" height="34"> <img src="assets/tech/react.svg" alt="React" width="34" height="34"> <img src="assets/tech/android.svg" alt="Android" width="34" height="34"></p>
 
-| Área | Herramientas |
+| Área | Tecnologías |
 | --- | --- |
-| Lenguajes | Java · Python · TypeScript · JavaScript · Go · SQL · PL/SQL · C/C++ |
+| Lenguajes | Java · Python · TypeScript · JavaScript · Go · Kotlin · SQL · PL/SQL · C/C++ |
 | Backend | Spring Boot · NestJS · FastAPI · Node.js/Express · APIs REST · Microservicios |
-| Bases de datos | Oracle · PostgreSQL · MySQL · MongoDB · Neo4j · SQLite |
-| Cloud y entrega | AWS: EC2, S3, RDS, IAM · Google Cloud/BigQuery · Docker · Kubernetes · CI/CD |
-| Datos y observabilidad | Apache Airflow · dbt · BigQuery ML · Grafana · Power BI |
-| Integración y herramientas | Angular · React · PrimeFaces · Oracle Forms · Git · GitHub · GitLab |
+| Datos | Oracle · PostgreSQL · MySQL · MongoDB · Neo4j · SQLite · Airflow · dbt · BigQuery |
+| Cloud y entrega | AWS: EC2, S3, RDS, IAM · Google Cloud · Docker · Kubernetes · CI/CD |
+| Producto e integración | Android · React · Angular · PrimeFaces · Git · Grafana · Power BI |
 
-## Formación
+## Experiencia y formación
 
-- **Ingeniería en Ciencias y Sistemas — Universidad de San Carlos de Guatemala.** Pensum cerrado, pendiente de graduación.
-- **Proyecto de Inteligencia Artificial con Python — Samsung Innovation Campus.** 200 horas · 2025.
-- **Idiomas:** español nativo e inglés básico.
+- **SAT · Servicios técnicos:** desarrollo y mantenimiento de aplicaciones Java, soporte de sistemas institucionales y trabajo con SQL/PLSQL y Oracle.
+- **Prácticas de telemedicina en la USAC:** servicios NestJS, PostgreSQL, Docker e integración con Angular.
+- **Ingeniería en Ciencias y Sistemas — USAC:** pensum cerrado, pendiente de graduación.
+- **Samsung Innovation Campus:** Proyecto de Inteligencia Artificial con Python, 200 horas · 2025.
+- Español nativo e inglés básico.
 
 ## Conversemos
 
-Si tienes una oportunidad de desarrollo backend, bases de datos o soporte de software, o un proyecto en el que podamos colaborar, puedes escribirme a **[RS.CASTRO0417@gmail.com](mailto:RS.CASTRO0417@gmail.com)** o contactarme por **[LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b)**.
+¿Tienes una oportunidad en backend, datos o desarrollo de producto? [Conoce mi trabajo](https://rsebxc.github.io/) y escríbeme a **[RS.CASTRO0417@gmail.com](mailto:RS.CASTRO0417@gmail.com)** o por **[LinkedIn](https://www.linkedin.com/in/rodrigo-castro-95233632b)**.
 
-<!-- Al publicar el portafolio personal, agregar aquí su URL definitiva. -->
+<sub>Iconos de tecnologías: Devicon, licencia MIT incluida en assets/tech/LICENSE.txt. Las métricas son una captura fechada; no dependen de servicios externos de estadísticas.</sub>
